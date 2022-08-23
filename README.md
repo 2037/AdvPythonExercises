@@ -1,2 +1,2 @@
 # AdvPythonExercises
-Advance Python Exercise
+This is a repository for exercises from the book Advanced Python Programming.
